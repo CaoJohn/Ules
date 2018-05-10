@@ -1,0 +1,7 @@
+
+
+sheet:
+locator -- identity_location -- type -- operation -- value -- assert
+
+xpath   //span[@class="test"]    button   click    null   "testisright"
+class   "test"                input   sendkey    1234   "1234isright"
